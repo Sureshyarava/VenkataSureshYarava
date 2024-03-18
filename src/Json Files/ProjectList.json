@@ -1,0 +1,20 @@
+[
+    {
+        "projectName": "Sample Project 1",
+        "projectURL": "https://www.sampleproject1.com",
+        "projectDescription": "This is a sample project description for Sample Project 1.",
+        "technologiesUsed": ["React", "Node.js", "MongoDB"]
+    },
+    {
+        "projectName": "Sample Project 2",
+        "projectURL": "https://www.sampleproject2.com",
+        "projectDescription": "This is a sample project description for Sample Project 2.",
+        "technologiesUsed": ["Angular", "Express.js", "MySQL"]
+    },
+    {
+        "projectName": "Sample Project 3",
+        "projectURL": "https://www.sampleproject3.com",
+        "projectDescription": "This is a sample project description for Sample Project 3.",
+        "technologiesUsed": ["Vue.js", "Django", "PostgreSQL"]
+    }
+]

@@ -1,0 +1,20 @@
+
+[
+    {
+      "roleName": "Software Engineer Intern",
+      "companyName": "Epam Systems",
+      "description": "",
+      "startDate": "Feb 2022",
+      "endDate": "June 2022",
+      "location": "Hyderabad, India"
+    },
+    {
+      "roleName": "Web Developer",
+      "companyName": "XYZ Inc.",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "startDate": "June 2018",
+      "endDate": "December 2019",
+      "location": "San Francisco, USA"
+    }
+  ]
+  
