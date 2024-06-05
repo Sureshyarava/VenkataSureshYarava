@@ -1,0 +1,27 @@
+.headerbody {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 30px;
+    background-color: #646262; /* White background */
+    border: 1px solid #a6a4a4; /* Border line */
+}
+
+.headerbody .button {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.button.close {
+    background-color: #ff5f56; /* Red close button */
+}
+
+.button.minimize {
+    background-color: #ffbd2e; /* Yellow minimize button */
+}
+
+.button.maximize {
+    background-color: #27c93f; /* Green maximize button */
+}

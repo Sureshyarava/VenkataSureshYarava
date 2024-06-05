@@ -1,0 +1,20 @@
+[
+    {
+        "projectName": "Crime Data Analysis",
+        "projectURL": "https://github.com/Sureshyarava/Crime_Data_Analysis",
+        "projectDescription": "'Crime Data Analysis for Safer Communities' is a comprehensive analysis focusing on crime trends spanning the past two decades, with a specific emphasis on seasonal variations in crime occurrences and their temporal and spatial distribution. Utilizing sophisticated computational methods, the project aims to establish long-term crime means rather than solely focusing on seasonal fluctuations. It serves as a valuable tool for users to assess crime patterns within specific locations over extended periods, enabling comparisons of safety levels. By examining serious crimes through the lens of IUCR codes, the project tracks their progression and aids in anticipating potential increases in crime rates, contributing to informed decision-making for proactive crime prevention efforts.",
+        "technologiesUsed": ["React", "Python", "CSS", "HTML" , "Git", "FLASK", "Oracle DataBase"]
+    },
+    {
+        "projectName": "Gator Library",
+        "projectURL": "https://github.com/Sureshyarava/GatorLibrary",
+        "projectDescription": "GatorLibrary is a fictional library management system designed to efficiently manage books, patrons, and borrowing operations. The system utilizes a Red-Black tree data structure for book management and a Binary Min-heap for handling book reservations. Each book node in the Red-Black tree is equipped with various attributes, including a reservation heap for tracking patron reservations.",
+        "technologiesUsed": ["Python", "Pycharm"]
+    },
+    {
+        "projectName": "Chord based Peer-to-Peer System Simulator",
+        "projectURL": "https://github.com/Sureshyarava/Chord",
+        "projectDescription": "This program simulates a Chord-based peer-to-peer system, implementing the functionalities mentioned in the Chord paper. The key features include creating a network ring, dynamically adding nodes, performing scalable key lookups, and simulating key lookups with hop count tracking.",
+        "technologiesUsed": ["F#", "Visual Studio Code"]
+    }
+]
