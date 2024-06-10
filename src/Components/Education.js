@@ -4,7 +4,7 @@ const Education = ({ heading, degree, major, gpa, outOf, collegeName, startTime,
     return (
         <div>
             <h2>{heading}</h2>
-            <p>
+            <p className='justify'>
                 <strong>Degree:</strong> {degree}<br />
                 <strong>Major:</strong> {major}<br />
                 <strong>GPA:</strong> {gpa} / {outOf}<br />

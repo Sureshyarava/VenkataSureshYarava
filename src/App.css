@@ -46,6 +46,14 @@
   margin-bottom: 10px; /* Add margin between items */
 }
 
+.justify{
+  text-align: justify;
+}
+
+.padding{
+  padding-right:10px ;
+}
+
 @media screen and (max-width: 1470px) {
   .grid {
     display: flex;
