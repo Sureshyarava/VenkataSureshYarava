@@ -39,6 +39,18 @@ const TerminalLine = ({ heading }) => {
         "projectURL": "https://github.com/Sureshyarava/Chord",
         "projectDescription": "This program simulates a Chord-based peer-to-peer system, implementing the functionalities mentioned in the Chord paper. The key features include creating a network ring, dynamically adding nodes, performing scalable key lookups, and simulating key lookups with hop count tracking.",
         "technologiesUsed": ["F#", "Visual Studio Code"]
+    },
+    {
+        "projectName": "Patch-Based Adversarial Attack on DeepISP",
+        "projectURL": "https://github.com/Sureshyarava/Patch-Based-Adversarial-Attack-on-DeepISP",
+        "projectDescription": "Developed and analyzed the vulnerability of DeepISP, a deep learning-based Image Signal Processing (ISP) model,to patch-based adversarial attacks. Utilized the Structural Similarity Index (SSIM) to evaluate image reconstruction and object detection using YOLOv8. Demonstrated successful object misclassification and reduced average object detection rate from 88% to 53%. Highlighted the critical need for robust defense mechanisms to secure deep learning-based ISPs in practical applications.",
+        "technologiesUsed": ["Python", "TensorFlow" , "Git"]
+    },
+    {
+        "projectName": "Customer Churn Prediction in Banking System",
+        "projectURL": "https://github.com/Sureshyarava/Customer-Churn-Prediction-Model",
+        "projectDescription": "Developed a reliable customer churn prediction model using machine learning techniques to identify at-risk customers and enhance retention strategies. Implemented various models, including KNN, Logistic Regression, Decision Trees, Random Forest, and XGBoost, and evaluated their performance using F1 score and ROC-AUC score. The best-performing model was the Random Forest classifier, which achieved an ROC-AUC score of 0.80 and an F1 score of 0.72, surpassing the minimum baseline and indicating the effectiveness of the model",
+        "technologiesUsed": ["Python", "Pandas", "Scikit-Learn", "MatplotLib", "Git"]
     }
 ];
 
