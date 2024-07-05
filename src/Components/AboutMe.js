@@ -8,7 +8,7 @@ const AboutMe = () => {
                 <br></br><br></br>
                 My journey has been enriched by gaining practical experience in Agile methodologies, version control with Git, and team collaboration. As a graduate student in Computer and Information Science and Engineering at the University of Florida, I have developed innovative solutions that address real-world problems, demonstrating my capability to solve complex issues. Professionally, I served as a Junior Software Test Automation Engineer at EPAM Systems, where I played a key role in integrating Mada and Rupay cards and spearheaded the migration of NPCI services. My research contributions have resulted in a published IEEE paper on transforming AutoCAD plots into G-code, underscoring my dedication to technological advancement and excellence.
                 <br></br><br></br>
-                I am eager to apply my full-stack development skills to new endeavors and projects. Feel free to visit my portfolio to view some of my latest work and contact me if you're interested in discussing potential partnerships or job opportunities.</p>
+                I am eager to apply my full-stack development and test automation skills to new endeavors and projects. Feel free to contact me if you're interested in discussing potential partnerships or job opportunities.</p>
 
             <div className="contact-links">
                 <a href="https://github.com/Sureshyarava" target="_blank" rel="noreferrer">
