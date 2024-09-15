@@ -2,7 +2,7 @@
     "title": "AutoCAD to G-Code Converter",
     "authors": ["Venkata Suresh Yarava"],
     "journalConference": "2021 IEEE Pune Section International Conference (PuneCon)",
-    "doi": "10.1109/PuneCon52575.2021.9686541",
+    "doi": "https://ieeexplore.ieee.org/document/9686541",
     "description": "Numeric Controls are common today for the automated control of machining tools. High speed computer is used as an interface to implement such controls. This study aims to generate a G-code, directly from a drawing, AutoCAD, file and upload the same as a compatible G-Code for the NC Machine. This paper details the approach (concepts) and describes various steps involved in implementation from data extraction to transformation of data to G-Code.",
     "keywords": ["Software algorithms", "Machining", "Generators" ,"Data Mining"],
     "youtubeUrl": "eLeIdSe5ofE"

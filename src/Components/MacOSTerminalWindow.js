@@ -51,6 +51,12 @@ const TerminalLine = ({ heading }) => {
         "projectURL": "https://github.com/Sureshyarava/Customer-Churn-Prediction-Model",
         "projectDescription": "Developed a reliable customer churn prediction model using machine learning techniques to identify at-risk customers and enhance retention strategies. Implemented various models, including KNN, Logistic Regression, Decision Trees, Random Forest, and XGBoost, and evaluated their performance using F1 score and ROC-AUC score. The best-performing model was the Random Forest classifier, which achieved an ROC-AUC score of 0.80 and an F1 score of 0.72, surpassing the minimum baseline and indicating the effectiveness of the model",
         "technologiesUsed": ["Python", "Pandas", "Scikit-Learn", "MatplotLib", "Git"]
+    },
+    {
+        "projectName": "Captcha-Vision",
+        "projectURL": "https://github.com/Sureshyarava/Captcha-Vision",
+        "projectDescription": "Captcha-Vision is a project that utilizes a Convolutional Neural Network (CNN) to identify and decode CAPTCHA images. The model is trained on a dataset of single character images segmented from CAPTCHA images using vertical projection analysis.",
+        "technologiesUsed": ["Python", "Pandas", "Scikit-Learn", "MatplotLib", "Git", "TensorFlow"]
     }
 ];
 
