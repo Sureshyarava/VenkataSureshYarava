@@ -4,20 +4,16 @@
       "companyName": "EPAM Systems",
       "datesEmployment": "July 2022 - July 2023",
       "responsibilities" : [
-          "Develop and maintain automated test scripts and frameworks for payment gateway services.",
-          "Assist in planning and conducting regression testing to validate software changes.",
-          "Collaborate with senior team members to design comprehensive test cases.",
-          "Execute automated test suites and analyze test results.",
-          "Support integration testing efforts with third-party systems.",
-          "Maintain accurate documentation of test cases and results.",
-          "Contribute to the continuous improvement of testing processes.",
-          "Actively participate in team meetings and collaborate with cross-functional teams.",
-          "Provide support in analyzing customer-reported issues and validating fixes.",
-          "Take initiative in self-learning and skill development."
+          "Designed and implemented Java/Spring Boot/PostgreSQL solutions for payment gateway enhancement, integrating Mada and Rupay cards with Mastercard Payment Gateway. Developed RESTful APIs and microservices using Spring MVC and Spring Cloud for seamless payment processing.",
+          "Utilized Spring Cloud components such as Eureka for service discovery and Feign for declarative REST client, enabling efficient communication between microservices. Implemented Spring Data JPA for database operations and Spring Batch for processing large volumes of transactions.",
+          "Led critical infrastructure migrations, including moving NPCI services from OLTP to the Acquirer Subsystem (AcqSubsystem) in lower environments, ensuring uninterrupted transaction processing. Leveraged Spring Boot’s auto-configuration and dependency management for streamlined development and deployment.",
+          "Established robust quality assurance practices by building and maintaining automated test frameworks using Selenium,JUnit, and Cucumber. Developed and executed test automation scripts implementing Page Object Model for functional and non-functional validation. Utilized Cucumber’s BDD approach with Gherkin syntax to create clear, human-readable test scenarios, enhancing collaboration between development, QA, and business teams.",
+          "Employed various tools for efficient development and troubleshooting, including MobaXterm for remote server access and Splunk for log analysis and issue resolution. Documented procedures and system changes in Confluence.",
+          "Utilized Rally Software for agile project management, tracking user stories, defects, and sprint progress. Participated in daily regression/green room/release room calls for smooth release sign-offs and used Rally’s reporting features for sprint retrospectives."
       ],
       "achievements": ["🔁 Successfully led the migration of NPCI services from OLTP to Acquirer Subsystem(AcqSubsystem), contributing to uninterrupted transaction services."," 🚀 Received Delivery Excellence Award for exceptional performance in project delivery."
   ],
-      "skillsUtilized": ["Java", "Selenium", "Git", "BDD (Behavioral Driven Development)", "Cucumber", "PostgreSQL", "Rest Assured", "Linux", "Jenkins"],
+      "skillsUtilized": ["Java", "Selenium", "Git", "BDD (Behavioral Driven Development)", "Cucumber", "PostgreSQL", "Rest Assured", "Linux", "Jenkins", "Spring (Boot, MVC, Cloud, Data, Security, JDBC)"],
       "projects": []
     },
     {

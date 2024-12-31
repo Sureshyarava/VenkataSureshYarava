@@ -8,7 +8,7 @@ const WorkExperience = ({ jobTitle, companyName, datesEmployment, responsibiliti
             <h3>Key Responsibilities:</h3>
             <ul>
                 {responsibilities.map((responsibility, index) => (
-                    <li key={index}>{responsibility}</li>
+                    <li key={index} style={{ textAlign: 'justify', marginRight: '10px'}}>{responsibility}</li>
                 ))}
             </ul>
             <h3>Achievements:</h3>
